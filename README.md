@@ -17,7 +17,7 @@ $$
 where:
 
 $$ 
-\(P_{RX}\) 
+P_{RX}
 $$ — received power
 * $$ \(P_{TX}\) $$ — transmitted power
 * $$ \(G_{TX}\) $$ — transmitter antenna gain
