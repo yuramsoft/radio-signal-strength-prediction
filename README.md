@@ -15,10 +15,14 @@ P_{RX}=P_{TX}G_{TX}G_{RX}
 $$
 
 where:
+$$
+P_{RX}
+$$
 
 $$ 
 P_{RX}
-$$ — received power
+$$
+— received power
 * $$ \(P_{TX}\) $$ — transmitted power
 * $$ \(G_{TX}\) $$ — transmitter antenna gain
 * $$ \(G_{RX}\) $$ — receiver antenna gain
