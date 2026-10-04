@@ -16,12 +16,12 @@ $$
 
 where:
 
-* \(P_{RX}\) — received power
-* \(P_{TX}\) — transmitted power
-* \(G_{TX}\) — transmitter antenna gain
-* \(G_{RX}\) — receiver antenna gain
-* \(\lambda\) — wavelength
-* \(d\) — transmitter-receiver distance
+* $$ \(P_{RX}\) $$ — received power
+* $$ \(P_{TX}\) $$ — transmitted power
+* $$ \(G_{TX}\) $$ — transmitter antenna gain
+* $$ \(G_{RX}\) $$ — receiver antenna gain
+* $$ \(\lambda\) $$ — wavelength
+* $$ \(d\) $$ — transmitter-receiver distance
 
 Real wireless environments are more complex because of reflection, diffraction, scattering, multipath propagation, shadowing, terrain, buildings, and other environmental factors.
 
